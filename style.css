@@ -98,7 +98,7 @@ body {
   height: 233px;
   border-radius: 20px;
   padding: 24px 30px 30px;
-  background: linear-gradient(to right bottom, #323941, #061018);
+  background: linear-gradient(to right bottom, #323941, #C0C0C0);
   box-shadow: 0 33px 50px -15px rgba(50,55,63,.66);
   color: #fff;
   overflow: hidden;
